@@ -15,3 +15,5 @@
 ## Set the hook in github as:
 
 `http://__HOST__:__PORT__/github/callback`
+
+with content-type set as `application/json`
