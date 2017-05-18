@@ -11,3 +11,7 @@
 ## Start the hook using foreverjs
 
 `forever start index.js`
+
+## Set the hook in github as:
+
+`http://__HOST__:__PORT__/github/callback`
