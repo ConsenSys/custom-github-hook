@@ -1,0 +1,21 @@
+{
+  "name": "digitalmob-custom-deploy",
+  "author": "Milad Mostavi",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "githubhook": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/miladmostavi/custom-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/miladmostavi/custom-deploy#readme"
+}
