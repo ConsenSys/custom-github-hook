@@ -1,11 +1,12 @@
 {
   "name": "digitalmob-custom-deploy",
-  "author": "Milad Mostavi",
+  "author": "",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "githubhook": "^1.7.1"
+    "githubhook": "^1.7.1",
+    "slack-notify": "^0.1.6"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +16,6 @@
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/miladmostavi/custom-deploy.git"
   },
-  "author": "",
   "license": "ISC",
   "homepage": "https://bitbucket.org/miladmostavi/custom-deploy#readme"
 }
